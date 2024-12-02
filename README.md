@@ -1,6 +1,6 @@
 # NAME : GANJI MUNI MADHURI
 # REGISTER NO : 212223230060
-# EX NO 6 : Update-the-Ultrasonic-sensor-value-in-Things Mate
+# EX NO 6 : Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
